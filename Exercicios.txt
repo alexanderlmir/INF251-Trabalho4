@@ -1,0 +1,12 @@
+Aluno: Alexander Lopes Miranda. Matrícula: 77463
+(Como o "7" repete, escolhi o exercício "0" também)
+
+0. Menor - Seja as variáveis A e B armazenadas na memória gp e gp+4. Escrever na posição gp+8 o menor valor.
+
+3. C = A * B = ( B + B + B .....+ B). Supor que A pode ser negativo.
+
+4. Resto da Divisão C = B % A.
+
+6. Achar o maior de um vetor.  O termino é marcado com um elemento igual a 0.
+
+7. Procurar quantas cópias de um elemento tem no vetor.  O termino é marcado com um elemento igual a 0.
